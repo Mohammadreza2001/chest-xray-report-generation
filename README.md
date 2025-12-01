@@ -10,7 +10,3 @@ This project implements a **deep learning framework** for automatic preliminary 
 - **Evaluation:** Reports are evaluated using **BLEU scores** and visual comparisons with reference captions.
 - **Visualization:** Randomly generated predictions are displayed alongside true captions for qualitative analysis.
 
-## Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/USERNAME/chest-xray-report-generation.git
